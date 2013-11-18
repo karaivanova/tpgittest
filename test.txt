@@ -8,3 +8,4 @@ test 255 ddddd ddff hgfhghcc ff 22dd dd dddddfdfsfddddffdssdffsdfdddd fff
 test1
 test local installation 
 authenticate with token
+test hosted trail
