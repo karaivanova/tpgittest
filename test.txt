@@ -10,3 +10,4 @@ test local installation
 authenticate with token
 test hosted trail
 check1
+check2
